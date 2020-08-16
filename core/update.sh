@@ -39,7 +39,7 @@ echo " "
 echo -e "$grn                updating the IG-Attack please wait$rset"
 sleep 2.0
 cd $HOME
-rm -rf ighack
+rm -rf IG-Attack
 git clone https://github.com/Tetrodotoxin2-0/IG-Attack
 clear
 echo " "
